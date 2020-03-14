@@ -1,0 +1,35 @@
+.employees{
+    display: flex;    
+    border: 2px solid gray;
+    border-radius: 25px;
+    margin-bottom: 20px;
+}
+.employee-photo{
+    margin: 10px;
+    padding: 10px;
+}
+.employee-photo img{
+    height: 300px;
+    width: 300px;
+}
+.employee-details{
+    margin-top: 20px;
+    margin-left: 100px;
+}
+.employee-details p{
+    border-bottom: 1px solid black;
+}
+.add-me-Btn{
+    background-color: rgb(102, 102, 204);
+    font-size: medium;
+    color: #fff;
+    width: 120px;
+    height: 35px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    cursor: pointer;
+} 
+.add-me-Btn:hover{
+    background-color:  olivedrab;
+}

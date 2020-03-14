@@ -1,0 +1,10 @@
+.details-about{
+    display: flex;
+}
+.empolyee-container{
+    width: 60%;
+    margin-left:80px;
+}
+.employee-salary{
+    margin-left:40px;
+}

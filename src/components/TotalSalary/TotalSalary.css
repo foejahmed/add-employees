@@ -1,0 +1,10 @@
+.salarySummery h3{
+    border-bottom: 3px solid black;
+}
+.salarySummery{
+    border: 1px solid gray;
+    border-radius: 20px;
+    width: 300px;
+    padding: 25px 20px;
+    background-color: lightcyan;
+}
